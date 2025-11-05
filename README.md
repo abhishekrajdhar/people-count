@@ -52,8 +52,8 @@ The processed frames are written into an output video file with visual annotatio
 
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/people-counting-tracker.git
-cd people-counting-tracker
+git clone https://github.com/abhishekrajdhar/people-count.git
+cd people-count
 
 2️⃣ Install Dependencies
 
@@ -63,7 +63,7 @@ pip install opencv-python numpy
 
 ▶️ Usage
 Run the Script
-python people_counter.py
+python main.py
 
 Controls
 
@@ -118,13 +118,7 @@ Integrate with a web dashboard for analytics visualization
 🧑‍💻 Author
 
 Abhishek Dubey
-📧 [Your Email Here]
-🌐 [Your Website or LinkedIn Profile]
-
-📜 License
-
-This project is licensed under the MIT License.
-Feel free to use and modify it for research, educational, or personal projects.
+📧 rajdhardubey4434@gmail.com
 
 🏁 Final Output Preview
 
